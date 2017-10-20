@@ -1,6 +1,14 @@
 % set number of Monte Carlo runs at line 343
 
 
+    % You are free to use, change, or redistribute this code in any way you
+    % want for non-commercial purposes. However, it is appreciated if you 
+    % maintain the name of the original author, and cite the paper:
+    % X. Cheng, A. Cloninger, R. Coifman.  "Two Sample Statistics Based on Anisotropic Kernels."
+    % arxiv:1709.05006
+    %
+    % Date: October 20, 2017. (Last Modified: October 20, 2017)
+
 function demo_sec3_limiting_density()
 
 clear all; close all;

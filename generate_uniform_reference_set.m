@@ -1,4 +1,12 @@
 
+    % You are free to use, change, or redistribute this code in any way you
+    % want for non-commercial purposes. However, it is appreciated if you 
+    % maintain the name of the original author, and cite the paper:
+    % X. Cheng, A. Cloninger, R. Coifman.  "Two Sample Statistics Based on Anisotropic Kernels."
+    % arxiv:1709.05006
+    %
+    % Date: October 20, 2017. (Last Modified: October 20, 2017)
+
 function R=generate_uniform_reference_set(data,nR,kNN)
 
 % input:

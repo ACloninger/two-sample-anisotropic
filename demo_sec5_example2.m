@@ -1,6 +1,14 @@
 % set number of Monte Carlo runs in line 74
 % set to obtain prefix covariance matrix or from local pca in line 29
 
+
+    % You are free to use, change, or redistribute this code in any way you % want for non-commercial purposes. However, it is appreciated if you 
+    % maintain the name of the original author, and cite the paper:
+    % X. Cheng, A. Cloninger, R. Coifman.  "Two Sample Statistics Based on Anisotropic Kernels."
+    % arxiv:1709.05006
+    %
+    % Date: October 20, 2017. (Last Modified: October 20, 2017)
+
 function demo_sec5_example2()
 
 clear all; close all;
